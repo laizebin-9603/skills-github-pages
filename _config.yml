@@ -9,5 +9,7 @@ email: laizebin9603@outlook.com
 # The `>` after `description:` means to ignore line-breaks until next key. If
 #   you wish to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Write an awesome Note for me to record my life.
+  这是一个分享Web开发、编程技巧和技术趋势的个人博客。
+  在这里，你可以找到关于现代开发工具、最佳实践和实用代码示例的文章。
+  让我们一起踏上持续学习和技术探索的旅程。
 
