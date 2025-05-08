@@ -1,1 +1,9 @@
 theme: minima
+
+title: "My Blog"
+
+author:
+  name: "John Doe"
+  email: "john.doe@example.com"
+
+
