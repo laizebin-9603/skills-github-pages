@@ -14,5 +14,6 @@ description: >
   让我们一起踏上持续学习和技术探索的旅程。
 
   nav_pages:
+    - index.md
     - about.md
 
