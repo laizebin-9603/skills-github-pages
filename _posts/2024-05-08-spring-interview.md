@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spring Ask"
+title: "Some question about Spring"
 date: 2024-05-08 17:25:00 +0800
 categories: [web-development]
 tags: [java]

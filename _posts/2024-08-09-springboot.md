@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Springboot"
+date: 2024-05-08 17:25:00 +0800
+categories: [web-development]
+tags: [java]
+---
+
 ### 一、SpringBoot核心功能
 SpringBoot是一个简化Spring初始化搭建以及开发过程的框架。SpringBoot主要的核心功能：
 
