@@ -2,15 +2,12 @@ theme: minima
 
 title: "Any笔记"
 
-author: GitHub User
-email: your-email@domain.com
+author: Bin
+email: laizebin9603@outlook.com
 
 #
 # The `>` after `description:` means to ignore line-breaks until next key. If
 #   you wish to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Write an awesome description for your new site here. You can edit this line
-  in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
-
+  Write an awesome Note for me to record my life.
 
