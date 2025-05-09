@@ -11,7 +11,7 @@ permalink: /about/
 ### 联系方式
 
 - Email: laizebin9603@outlook.com
-- GitHub: [你的GitHub链接]
+- GitHub: [https://github.com/laizebin-9603]
 
 ### 关于本站
 

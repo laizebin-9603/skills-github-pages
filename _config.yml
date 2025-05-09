@@ -18,3 +18,9 @@ description: >
 # Google Analytics
 google_analytics: G-62C6Y68JW8
 
+# Navigation
+nav_order: 1
+nav_pages:
+  - index.md
+  - about.md
+
