@@ -1,3 +1,12 @@
+---
+layout: post
+title: "basic knowledge-of-concurrency"
+date: 2025-05-09 10:42:00 +0800
+categories: [concurrency]
+tags: [java]
+---
+
+
 ### 一、线程的基本使用
 + Thread
 + Runnable
