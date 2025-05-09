@@ -2,7 +2,7 @@
 layout: post
 title: "Springboot"
 date: 2024-05-08 17:25:00 +0800
-categories: [springboot]
+categories: [spring]
 tags: [java]
 ---
 
