@@ -4,6 +4,13 @@ title: "Any笔记"
 url: "https://noteany.blog"
 baseurl: ""
 
+# 404 page handling
+defaults:
+  - scope:
+      path: "404.html"
+    values:
+      permalink: /404.html
+
 author: Bin
 email: laizebin9603@outlook.com
 
