@@ -20,6 +20,6 @@ description: >
 google_analytics: G-62C6Y68JW8
 
 # Exclude these files from navigation
-# exclude:
-#   - 404.md
+exclude:
+  - 404.md
 
