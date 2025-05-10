@@ -1,9 +1,7 @@
 ---
-layout: page
+layout: default
 title: "404 - Page Not Found"
 permalink: /404.html
-exclude: true
-sitemap: false
 ---
 
 <style>
@@ -83,10 +81,10 @@ sitemap: false
         Don't worry, you can find your way back home.
     </p>
     
-    <a href="/" class="home-button">Back to Home</a>
+    <a href="{{ site.baseurl }}/" class="home-button">Back to Home</a>
     
     <div class="search-container">
-        <form action="/search" method="get">
+        <form action="{{ site.baseurl }}/search" method="get">
             <input type="text" name="q" class="search-box" placeholder="Search the site...">
             <button type="submit" class="search-button">Search</button>
         </form>
