@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MySQL Transcation"
-date: 2025-05-12 18:00:00 +0800
+date: 2025-05-12 17:00:00 +0800
 categories: [mysql]
 tags: [java]
 ---
