@@ -23,3 +23,5 @@ google_analytics: G-62C6Y68JW8
 exclude:
   - 404.md
 
+show_excerpts: true
+
