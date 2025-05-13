@@ -1,0 +1,24 @@
+<div class="sidebar">
+  <h3>文章分类</h3>
+  <ul>
+    {% for category in site.categories %}
+      <li>
+        <a href="#{{ category[0] | slugify }}">{{ category[0] }}</a>
+        ({{ category[1].size }})
+      </li>
+    {% endfor %}
+  </ul>
+</div>
+
+<style>
+.sidebar {
+  float: left;
+  width: 200px;
+  padding: 15px;
+  position: fixed;
+}
+.main-content {
+  margin-left: 230px;
+  padding: 20px;
+}
+</style>
