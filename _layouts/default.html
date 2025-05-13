@@ -4,23 +4,25 @@
   {%- include head.html -%}
 
   <body>
-    <div class="container">
-      <div class="sidebar">
-        <h3>分类</h3>
-        {%- include categories.html -%}
-      </div>
-      <div class="main-content">
-        {%- include header.html -%}
 
-        <main class="page-content" aria-label="Content">
-          <div class="wrapper">
+    {%- include header.html -%}
+
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="container">
+          <div class="sidebar">
+            <h3>分类</h3>
+            {%- include categories.html -%}
+          </div>
+          <div class="main-content">
             {{ content }}
           </div>
-        </main>
-
-        {%- include footer.html -%}
+        </div>
       </div>
     </div>
+
+    {%- include footer.html -%}
+
   </body>
 
 </html> 
