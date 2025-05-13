@@ -29,3 +29,7 @@ show_excerpts: false
 # 是否显示文章分类
 show_categories: true
 
+# Sass settings
+sass:
+  sass_dir: assets/css
+  style: compressed

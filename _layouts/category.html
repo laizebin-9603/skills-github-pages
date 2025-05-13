@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<div class="category-page">
+  <h1 class="page-heading">分类: {{ page.category }}</h1>
+  
+  <ul class="post-list">
+    {% for post in site.categories[page.category] %}
+      <li>
+        {%- assign date_format = site.minima.date_format | default: "%Y-%m-%d" -%}
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <h3>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+        </h3>
+        {%- if site.show_excerpts -%}
+          {{ post.excerpt }}
+        {%- endif -%}
+      </li>
+    {% endfor %}
+  </ul>
+</div> 
