@@ -23,5 +23,12 @@ google_analytics: G-62C6Y68JW8
 exclude:
   - 404.md
 
-show_excerpts: true
+# 是否显示文章摘要
+show_excerpts: false
+
+# 是否显示文章分类
+show_categories: true
+
+
+
 
