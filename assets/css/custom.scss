@@ -1,0 +1,26 @@
+---
+# 前端 matter 确保 Jekyll 处理该文件
+---
+
+@import "minima";  // 首先加载主题默认样式
+
+/* 自定义侧边栏样式 */
+.wrapper-with-sidebar {
+  display: flex;
+  margin: 0 auto;
+  max-width: calc(800px + 16rem);
+  padding: 0 1rem;
+
+  @include media-query($on-palm) {
+    flex-direction: column;
+  }
+}
+
+.sidebar {
+  width: 14rem;
+  padding-right: 2rem;
+  padding-top: 1rem;
+
+  // 其他样式保持和之前相同...
+  // 复制之前提供的完整 sidebar 样式
+}
