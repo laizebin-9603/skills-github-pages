@@ -24,3 +24,22 @@
   // 其他样式保持和之前相同...
   // 复制之前提供的完整 sidebar 样式
 }
+
+.category-content {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 1rem;
+
+  h1 {
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+
+  .post-list {
+    article {
+      margin-bottom: 2rem;
+      padding-bottom: 1rem;
+      border-bottom: 1px solid $grey-200;
+    }
+  }
+}

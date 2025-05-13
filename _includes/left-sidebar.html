@@ -1,24 +1,13 @@
-<div class="sidebar">
-  <h3>文章分类</h3>
-  <ul>
+<div class="sidebar-content">
+  <h3 class="sidebar-heading">文章分类</h3>
+  <ul class="sidebar-categories">
     {% for category in site.categories %}
       <li>
-        <a href="#{{ category[0] | slugify }}">{{ category[0] }}</a>
-        ({{ category[1].size }})
+        <!-- 修改链接指向分类专用页面 -->
+        <a href="/category/{{ category[0] | slugify }}/">
+          {{ category[0] }} ({{ category[1].size }})
+        </a>
       </li>
     {% endfor %}
   </ul>
 </div>
-
-<style>
-.sidebar {
-  float: left;
-  width: 200px;
-  padding: 15px;
-  position: fixed;
-}
-.main-content {
-  margin-left: 230px;
-  padding: 20px;
-}
-</style>
