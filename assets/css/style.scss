@@ -3,6 +3,31 @@
 
 @import "minima";
 
+// Navigation styles
+.site-header {
+  border-bottom: 1px solid #e8e8e8;
+  position: relative;
+  min-height: 55px;
+  padding: 0 15px;
+}
+
+.site-nav {
+  float: right;
+  line-height: 55px;
+}
+
+.site-nav .page-link {
+  color: #424242;
+  margin-left: 20px;
+  font-size: 16px;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.site-nav .page-link:hover {
+  color: #2a7ae2;
+}
+
 // Layout styles for the sidebar and main content
 .container {
   display: flex;
@@ -57,5 +82,18 @@
     padding-bottom: 20px;
     margin-bottom: 20px;
     border-bottom: 1px solid #e8e8e8;
+  }
+  
+  .site-nav {
+    float: none;
+    line-height: normal;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  
+  .site-nav .page-link {
+    display: inline-block;
+    margin-left: 0;
+    margin-right: 20px;
   }
 }

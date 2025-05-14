@@ -1,6 +1,6 @@
 theme: minima
 
-title: "Any笔记"
+title: "NoteAny笔记"
 url: "https://noteany.blog"
 baseurl: ""
 
@@ -13,9 +13,6 @@ email: laizebin9603@outlook.com
 #   you wish to omit the line-break after the end of text, use `>-` instead.
 description: >
   这是一个分享Web开发、编程技巧和技术趋势的个人博客。
-  在这里，你可以找到关于现代开发工具、最佳实践和实用代码示例的文章。
-  让我们一起踏上持续学习和技术探索的旅程。
-
 # Google Analytics
 google_analytics: G-62C6Y68JW8
 

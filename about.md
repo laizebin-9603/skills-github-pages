@@ -6,20 +6,23 @@ permalink: /about/
 
 ## 关于我
 
-欢迎来到我的博客！这里是我分享技术见解和学习心得的地方。
+你好！我是一名热爱技术的软件工程师，专注于云原生、分布式系统和后端开发。
 
-### 联系方式
+我的技术栈:
+- 编程语言: Java, Go, Python
+- 框架: Spring Boot, Kubernetes, Istio
+- 数据库: PostgreSQL, MongoDB, Redis
+- 云平台: AWS, GCP
 
-- Email: laizebin9603@outlook.com
-- GitHub: [https://github.com/laizebin-9603]
+## 关于这个博客
 
-### 关于本站
-
-这个博客使用 Jekyll 构建，托管在 GitHub Pages 上。主要分享：
+主要分享：
 
 - Web开发技术
 - 编程技巧
 - 技术趋势
 - 学习心得
 
-感谢你的访问！ 
+如果你有任何问题或建议，请随时通过 [{{site.email}}](mailto:{{site.email}}) 与我联系。
+
+感谢访问！ 
