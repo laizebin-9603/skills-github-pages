@@ -16,6 +16,26 @@
   
   <!-- 博客文章 -->
   <url>
+    <loc>https://noteany.blog/redis/2025/05/13/redis-concurrency.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://noteany.blog/redis/2025/05/13/redis-basic.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://noteany.blog/rabbitmq/2025/05/16/rabbitMQ-concurrency.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://noteany.blog/rabbitmq/2025/05/16/rabbitMQ-Basic.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://noteany.blog/redis/2025/05/13/redis.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -72,6 +92,11 @@
   </url>
   
   <!-- 分类页面 -->
+  <url>
+    <loc>https://noteany.blog/categories/rabbitmq</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
   <url>
     <loc>https://noteany.blog/categories/redis</loc>
     <changefreq>weekly</changefreq>

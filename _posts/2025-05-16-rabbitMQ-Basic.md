@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RabbitMQ"
+title: "RabbitMQ Basic"
 date: 2025-05-15 10:01:00 +0800
 categories: [rabbitmq]
 tags: [java]
