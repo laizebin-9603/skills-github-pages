@@ -148,20 +148,6 @@ public static void main(){
 
 原理：
 
-`<font style="color:rgb(44, 44, 54);">Thread.join()</font>`<font style="color:rgb(44, 44, 54);"> 的实现基于 </font>`<font style="color:rgb(44, 44, 54);">Object.wait()</font>`<font style="color:rgb(44, 44, 54);"> 方法。当一个线程调用另一个线程的 </font>`<font style="color:rgb(44, 44, 54);">join()</font>`<font style="color:rgb(44, 44, 54);"> 方法时，当前线程会进入等待状态，直到被调用 </font>`<font style="color:rgb(44, 44, 54);">join()</font>`<font style="color:rgb(44, 44, 54);"> 的线程终止或者超时。</font>
-
+Thread.join() 的实现基于Object.wait()方法。当一个线程调用另一个线程的join()方法时，当前线程会进入等待状态，直到被调用join()的线程终止或者超时。
 #### ThreadLocal
 **<font style="color:#DF2A3F;">待定</font>**
-
-
-
-
-
-
-
-
-
-
-
-
-
