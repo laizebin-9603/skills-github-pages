@@ -28,7 +28,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://noteany.blog/redis/2025/05/13/redis-concurrency.html</loc>
+    <loc>https://noteany.blog/redis/2025/05/14/redis-concurrency.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -43,12 +43,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://noteany.blog/rabbitmq/2025/05/16/rabbitMQ-basic.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://noteany.blog/redis/2025/05/13/redis.html</loc>
+    <loc>https://noteany.blog/rabbitmq/2025/05/15/rabbitMQ-basic.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -73,7 +68,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://noteany.blog/mysql/2025/05/12/mysql-basic.html</loc>
+    <loc>https://noteany.blog/mysql/2025/05/11/mysql-basic.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -93,12 +88,43 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://noteany.blog/spring/2025/05/09/springboot.html</loc>
+    <loc>https://noteany.blog/spring/2024/05/08/springboot.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://noteany.blog/web-development/2024/05/08/modern-web-development-tools.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <!-- 新增JUC博客文章 -->
+  <url>
+    <loc>https://noteany.blog/juc/2025/05/22/ConcurrentHashMap.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://noteany.blog/juc/2025/05/22/Atomic.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://noteany.blog/juc/2025/05/22/CyclicBarrier.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://noteany.blog/juc/2025/05/22/Semaphore.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://noteany.blog/juc/2025/05/22/CountDownLatch.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://noteany.blog/juc/2025/05/23/Java-Blocking-Queue.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
